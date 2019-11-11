@@ -16,6 +16,8 @@ After you have installed all of the dependencies that are needed for this projec
 
 To stop running the server and the react app, you can hit ```command + z``` to close both.
 
+## FDD (Functionality Design)
+![FDD](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/design/FDD%20Project4.pdf)
 
 ## CRUD METHODS
 
