@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using project4.Models;
 
-namespace adminRun4ItTest.Controllers
+namespace adminRun4ItTest.Controllers //Auto-generated code for API
 {
     [Route("api/[controller]")]
     [ApiController]

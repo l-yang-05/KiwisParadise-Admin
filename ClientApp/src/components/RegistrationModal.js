@@ -5,11 +5,13 @@ class RegistrationModal extends Component {
     state = {
         modal: false
     }
+    //toggle the modal by setting state to opposite of previous
     toggle = () => {
         this.setState(previous => ({
             modal: !previous.modal
         }));
     }
+    // Render modal
     render() {
         const isNew = this.props.isNew;
         let title = 'Edit Item';

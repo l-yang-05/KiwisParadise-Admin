@@ -22,7 +22,7 @@ namespace project4
 
         // This method gets called by the runtime. Use this method to add services to the container.
         [System.Obsolete]
-        public void ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection services)//Set connection info for database
         {
             string connection = "Server=localhost;Port=3306;Database=CSharp;User=root;Password=password";
 
@@ -72,8 +72,8 @@ namespace project4
                     name: "default",
                     pattern: "{controller}/{action=Index}/{id?}");
             });
-        
-            
+
+
 
             app.UseSpa(spa =>
             {

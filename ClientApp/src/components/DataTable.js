@@ -10,7 +10,7 @@ class DataTable extends Component {
             headers: {
                 'Content-Type': 'application/json'
             }
-        })
+        }) // Use DELETE method of API
             .then(res => {
                 this.props.deleteItemFromState(id);
                 console.log(res)
@@ -20,6 +20,7 @@ class DataTable extends Component {
     render() {
         const items = this.props.items;
         return <Table striped>
+            {/* Create table for products */}
             <thead className="thead-dark">
                 <tr>
                     <th>Id</th>
@@ -31,6 +32,7 @@ class DataTable extends Component {
                 </tr>
             </thead>
             <tbody>
+                {/* Check if there are any returned products */}
                 {!items || items.length <= 0 ?
                     <tr>
                         <td colSpan="6" align="center"><b>No Products yet</b></td>

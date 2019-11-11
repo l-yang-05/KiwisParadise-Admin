@@ -10,15 +10,20 @@ class RegistrationForm extends React.Component {
         product_category: '',
         image: ''
     }
+    //If there is a user set state
     componentDidMount() {
         if (this.props.user) {
             const { id, product_name, product_desc, product_category, image } = this.props.user
             this.setState({ id, product_name, product_desc, product_category, image });
         }
     }
+
+    // Set state on form changes
     onChange = e => {
         this.setState({ [e.target.name]: e.target.value })
     }
+
+    // Create a new user with post method
     submitNew = e => {
         e.preventDefault();
         fetch(`${USERS_API_URL}`, {
@@ -42,6 +47,8 @@ class RegistrationForm extends React.Component {
             })
             .catch(err => console.log(err));
     }
+
+    // Submit an edit with put
     submitEdit = e => {
         e.preventDefault();
         fetch(`${USERS_API_URL}/${this.state.id}`, {
@@ -63,6 +70,8 @@ class RegistrationForm extends React.Component {
             })
             .catch(err => console.log(err));
     }
+
+    // Render the forms for create/edit
     render() {
         return <Form onSubmit={this.props.user ? this.submitEdit : this.submitNew}>
             <FormGroup>

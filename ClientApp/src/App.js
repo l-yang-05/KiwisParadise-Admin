@@ -7,7 +7,7 @@ import './App.css'
 
 export default class App extends Component {
   static displayName = App.name;
-
+  // Final app to be rendered
   render() {
     return (
       <Layout>
