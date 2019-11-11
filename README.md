@@ -16,6 +16,8 @@ After you have installed all of the dependencies that are needed for this projec
 
 To stop running the server and the react app, you can hit ```command + z``` to close both.
 
+## FDD (Functionality Design)
+![FDD](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/design/FDD%20Project4.pdf)
 
 ## CRUD METHODS
 
@@ -26,10 +28,10 @@ To stop running the server and the react app, you can hit ```command + z``` to c
 ![Create Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/add-Admin.gif)
 
 ### UPDATE
-![Update Method]()
+![Update Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/edit-Admin.gif)
 
 ### DELETE
-![Delte Method]()
+![Delte Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/delete-Admin.gif)
 
 
 ## Built With
