@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/LucyYang/Desktop/CSharpAdmin-master/project4.csproj": {}
+    "/Users/LucyYang/Documents/KiwisParadise-Admin/project4.csproj": {}
   },
   "projects": {
-    "/Users/LucyYang/Desktop/CSharpAdmin-master/project4.csproj": {
+    "/Users/LucyYang/Documents/KiwisParadise-Admin/project4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/LucyYang/Desktop/CSharpAdmin-master/project4.csproj",
+        "projectUniqueName": "/Users/LucyYang/Documents/KiwisParadise-Admin/project4.csproj",
         "projectName": "project4",
-        "projectPath": "/Users/LucyYang/Desktop/CSharpAdmin-master/project4.csproj",
+        "projectPath": "/Users/LucyYang/Documents/KiwisParadise-Admin/project4.csproj",
         "packagesPath": "/Users/LucyYang/.nuget/packages/",
-        "outputPath": "/Users/LucyYang/Desktop/CSharpAdmin-master/obj/",
+        "outputPath": "/Users/LucyYang/Documents/KiwisParadise-Admin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/LucyYang/.nuget/NuGet/NuGet.Config"
