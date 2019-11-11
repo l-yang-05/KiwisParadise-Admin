@@ -26,10 +26,10 @@ To stop running the server and the react app, you can hit ```command + z``` to c
 ![Create Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/add-Admin.gif)
 
 ### UPDATE
-![Update Method]()
+![Update Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/edit-Admin.gif)
 
 ### DELETE
-![Delte Method]()
+![Delte Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/delete-Admin.gif)
 
 
 ## Built With
