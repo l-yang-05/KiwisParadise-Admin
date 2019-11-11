@@ -32,6 +32,12 @@ To stop running the server and the react app, you can hit ```command + z``` to c
 ![Delte Method]()
 
 
+## Built With
+
+* [React](https://github.com/facebook/react) - The framework used
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Server
+* [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) - C# Framework
+
 ## Author
 
 * [Lucy Yang](https://github.com/l-yang-05)
