@@ -20,10 +20,8 @@ To stop running the server and the react app, you can hit ```command + z``` to c
 ## CRUD METHODS
 
 ### Read
-![Read Method]
-(https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/read-Admin.png)
+![Read Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/read-Admin.png)
 
 
 #### CREATE
-![Create Method]
-(https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/add-Admin.gif)
+![Create Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/add-Admin.gif)
