@@ -22,6 +22,21 @@ To stop running the server and the react app, you can hit ```command + z``` to c
 ### Read
 ![Read Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/read-Admin.png)
 
-
 #### CREATE
 ![Create Method](https://github.com/l-yang-05/KiwisParadise-Admin/blob/master/work/image/add-Admin.gif)
+
+### UPDATE
+![Update Method]()
+
+### DELETE
+![Delte Method]()
+
+
+## Author
+
+* [Lucy Yang](https://github.com/l-yang-05)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
